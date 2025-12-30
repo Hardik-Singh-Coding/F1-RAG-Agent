@@ -1,3 +1,5 @@
 .env
 venv/
 .DS_Store
+f1_agent.py
+f1_live_agent.py
